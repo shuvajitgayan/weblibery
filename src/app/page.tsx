@@ -1,10 +1,6 @@
 import Image from "next/image";
-import SignupPage from "./signup/page";
+import Link from "next/link";
 
 export default function Home() {
-  return (
-    <>
-      <SignupPage />
-    </>
-  );
+  return <></>;
 }
