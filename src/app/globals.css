@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.background {
+  background-image: url(https://images.pexels.com/photos/19369819/pexels-photo-19369819/free-photo-of-old-library-with-book-ladder.jpeg);
+}
+.popup {
+  background-image: url(https://media.istockphoto.com/id/1460007178/photo/library-books-on-table-and-background-for-studying-learning-and-research-in-education-school.webp?b=1&s=170667a&w=0&k=20&c=TRED57BZuROoCEP9kR85pW38PLz32onmM8106OoXeGQ=);
+}
