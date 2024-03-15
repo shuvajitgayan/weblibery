@@ -1,11 +1,15 @@
 import Image from "next/image";
 import Link from "next/link";
-import ProfilePage from "./profile/page";
+import Herosection from "@/components/nav/nav";
+import  Books  from "@/components/card/cars";
+
 
 export default function Home() {
   return (
   <>
-  <ProfilePage/>
+  <Herosection/>
+  <Books/>
+
   </>
   );
 }

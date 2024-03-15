@@ -45,7 +45,7 @@ export default function SignupPage() {
 
   return (
     <>
-      <LogoBar />
+      {/* <LogoBar /> */}
       <div className="flex flex-col items-center justify-center min-h-screen py-2">
         <h1>{loading ? "Processing" : "Signup"}</h1>
         <hr />

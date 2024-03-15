@@ -1,0 +1,285 @@
+{
+    "books":[
+        {
+          "id": 1,
+          "title": "The Great Gatsby",
+          "description": "A novel by F. Scott Fitzgerald set in the Jazz Age, depicting the lavish lifestyle of wealthy New Yorkers during the 1920s.",
+          "price": 12.99,
+          "instructor": "F. Scott Fitzgerald",
+          "image_url": "https://example.com/great_gatsby.jpg",
+          "website_link": "https://example.com/the-great-gatsby",
+          "isFeatured": true
+        },
+        {
+          "id": 2,
+          "title": "To Kill a Mockingbird",
+          "description": "Harper Lee's classic novel set in the racially charged atmosphere of the American South during the 1930s.",
+          "price": 11.99,
+          "instructor": "Harper Lee",
+          "image_url": "https://example.com/to_kill_a_mockingbird.jpg",
+          "website_link": "https://example.com/to-kill-a-mockingbird",
+          "isFeatured": true
+        },
+        {
+          "id": 3,
+          "title": "1984",
+          "description": "George Orwell's dystopian masterpiece exploring themes of surveillance, propaganda, and totalitarianism.",
+          "price": 10.49,
+          "instructor": "George Orwell",
+          "image_url": "https://example.com/1984.jpg",
+          "website_link": "https://example.com/1984-book",
+          "isFeatured": false
+        },
+        {
+          "id": 4,
+          "title": "The Catcher in the Rye",
+          "description": "J.D. Salinger's coming-of-age novel following the disillusioned teenager Holden Caulfield as he wanders through New York City.",
+          "price": 9.99,
+          "instructor": "J.D. Salinger",
+          "image_url": "https://example.com/catcher_in_the_rye.jpg",
+          "website_link": "https://example.com/catcher-in-the-rye",
+          "isFeatured": true
+        },
+        {
+          "id": 5,
+          "title": "Pride and Prejudice",
+          "description": "Jane Austen's romantic novel exploring the societal norms and class structure of early 19th-century England.",
+          "price": 13.99,
+          "instructor": "Jane Austen",
+          "image_url": "https://example.com/pride_and_prejudice.jpg",
+          "website_link": "https://example.com/pride-and-prejudice",
+          "isFeatured": true
+        },
+        {
+          "id": 6,
+          "title": "Moby-Dick",
+          "description": "Herman Melville's epic tale of Captain Ahab's obsessive quest for revenge against the white whale.",
+          "price": 14.99,
+          "instructor": "Herman Melville",
+          "image_url": "https://example.com/moby_dick.jpg",
+          "website_link": "https://example.com/moby-dick",
+          "isFeatured": false
+        },
+        {
+          "id": 7,
+          "title": "The Hobbit",
+          "description": "J.R.R. Tolkien's fantasy adventure novel following Bilbo Baggins on his unexpected journey to reclaim the Lonely Mountain.",
+          "price": 11.99,
+          "instructor": "J.R.R. Tolkien",
+          "image_url": "https://example.com/the_hobbit.jpg",
+          "website_link": "https://example.com/the-hobbit",
+          "isFeatured": false
+        },
+        {
+          "id": 8,
+          "title": "The Lord of the Rings",
+          "description": "J.R.R. Tolkien's epic fantasy trilogy chronicling the War of the Ring and the quest to destroy the One Ring.",
+          "price": 29.99,
+          "instructor": "J.R.R. Tolkien",
+          "image_url": "https://example.com/lord_of_the_rings.jpg",
+          "website_link": "https://example.com/lord-of-the-rings",
+          "isFeatured": true
+        },
+        {
+          "id": 9,
+          "title": "The Alchemist",
+          "description": "Paulo Coelho's philosophical novel following Santiago, an Andalusian shepherd boy, on his journey to find his personal legend.",
+          "price": 10.99,
+          "instructor": "Paulo Coelho",
+          "image_url": "https://example.com/the_alchemist.jpg",
+          "website_link": "https://example.com/the-alchemist",
+          "isFeatured": false
+        },
+        {
+          "id": 10,
+          "title": "The Odyssey",
+          "description": "Homer's epic poem recounting the adventures of Odysseus as he journeys home from the Trojan War.",
+          "price": 12.49,
+          "instructor": "Homer",
+          "image_url": "https://example.com/the_odyssey.jpg",
+          "website_link": "https://example.com/the-odyssey",
+          "isFeatured": true
+        },
+        {
+          "id": 11,
+          "title": "The Picture of Dorian Gray",
+          "description": "Oscar Wilde's novel exploring the themes of vanity, hedonism, and the consequences of moral corruption.",
+          "price": 9.49,
+          "instructor": "Oscar Wilde",
+          "image_url": "https://example.com/picture_of_dorian_gray.jpg",
+          "website_link": "https://example.com/picture-of-dorian-gray",
+          "isFeatured": false
+        },
+        {
+          "id": 12,
+          "title": "Brave New World",
+          "description": "Aldous Huxley's dystopian novel set in a futuristic society where social stability is maintained through psychological conditioning.",
+          "price": 11.99,
+          "instructor": "Aldous Huxley",
+          "image_url": "https://example.com/brave_new_world.jpg",
+          "website_link": "https://example.com/brave-new-world",
+          "isFeatured": true
+        },
+        {
+          "id": 13,
+          "title": "Crime and Punishment",
+          "description": "Fyodor Dostoevsky's psychological thriller follows the troubled student Raskolnikov as he grapples with guilt and morality.",
+          "price": 13.99,
+          "instructor": "Fyodor Dostoevsky",
+          "image_url": "https://example.com/crime_and_punishment.jpg",
+          "website_link": "https://example.com/crime-and-punishment",
+          "isFeatured": false
+        },
+        {
+          "id": 14,
+          "title": "The Brothers Karamazov",
+          "description": "Fyodor Dostoevsky's philosophical novel exploring themes of faith, reason, and free will through the story of the Karamazov family.",
+          "price": 15.99,
+          "instructor": "Fyodor Dostoevsky",
+          "image_url": "https://example.com/the_brothers_karamazov.jpg",
+          "website_link": "https://example.com/the-brothers-karamazov",
+          "isFeatured": true
+        },
+        {
+          "id": 15,
+          "title": "Anna Karenina",
+          "description": "Leo Tolstoy's epic novel follows the tragic story of Anna Karenina, whose affair leads to her downfall.",
+          "price": 14.49,
+          "instructor": "Leo Tolstoy",
+          "image_url": "https://example.com/anna_karenina.jpg",
+          "website_link": "https://example.com/anna-karenina",
+          "isFeatured": false
+        },
+        {
+          "id": 16,
+          "title": "War and Peace",
+          "description": "Leo Tolstoy's historical novel set during the Napoleonic Wars, exploring themes of love, war, and destiny.",
+          "price": 17.99,
+          "instructor": "Leo Tolstoy",
+          "image_url": "https://example.com/war_and_peace.jpg",
+          "website_link": "https://example.com/war-and-peace",
+          "isFeatured": false
+        },
+        {
+          "id": 17,
+          "title": "The Grapes of Wrath",
+          "description": "John Steinbeck's novel follows the Joad family as they journey from Oklahoma to California during the Great Depression.",
+          "price": 12.99,
+          "instructor": "John Steinbeck",
+          "image_url": "https://example.com/grapes_of_wrath.jpg",
+          "website_link": "https://example.com/grapes-of-wrath",
+          "isFeatured": false
+        },
+        {
+          "id": 18,
+          "title": "The Adventures of Huckleberry Finn",
+          "description": "Mark Twain's classic novel follows Huck Finn and Jim, an escaped slave, as they journey down the Mississippi River.",
+          "price": 11.49,
+          "instructor": "Mark Twain",
+          "image_url": "https://example.com/huckleberry_finn.jpg",
+          "website_link": "https://example.com/huckleberry-finn",
+          "isFeatured": true
+        },
+        {
+          "id": 19,
+          "title": "Frankenstein",
+          "description": "Mary Shelley's Gothic novel about a scientist who creates a grotesque creature in an unorthodox scientific experiment.",
+          "price": 10.99,
+          "instructor": "Mary Shelley",
+          "image_url": "https://example.com/frankenstein.jpg",
+          "website_link": "https://example.com/frankenstein",
+          "isFeatured": false
+        },
+        {
+          "id": 20,
+          "title": "Wuthering Heights",
+          "description": "Emily Brontë's novel of passion and revenge follows the doomed love affair between Heathcliff and Catherine Earnshaw.",
+          "price": 11.99,
+          "instructor": "Emily Brontë",
+          "image_url": "https://example.com/wuthering_heights.jpg",
+          "website_link": "https://example.com/wuthering-heights",
+          "isFeatured": true
+        },
+        {
+          "id": 21,
+          "title": "Jane Eyre",
+          "description": "Charlotte Brontë's novel follows the experiences of the orphaned Jane Eyre as she grows into adulthood.",
+          "price": 10.49,
+          "instructor": "Charlotte Brontë",
+          "image_url": "https://example.com/jane_eyre.jpg",
+          "website_link": "https://example.com/jane-eyre",
+          "isFeatured": true
+        },
+        {
+          "id": 22,
+          "title": "Great Expectations",
+          "description": "Charles Dickens' bildungsroman follows the life of the orphan Pip as he encounters various characters and experiences.",
+          "price": 12.99,
+          "instructor": "Charles Dickens",
+          "image_url": "https://example.com/great_expectations.jpg",
+          "website_link": "https://example.com/great-expectations",
+          "isFeatured": false
+        },
+        {
+          "id": 23,
+          "title": "The Scarlet Letter",
+          "description": "Nathaniel Hawthorne's novel set in 17th-century Puritan Massachusetts explores themes of sin, guilt, and redemption.",
+          "price": 9.99,
+          "instructor": "Nathaniel Hawthorne",
+          "image_url": "https://example.com/the_scarlet_letter.jpg",
+          "website_link": "https://example.com/the-scarlet-letter",
+          "isFeatured": false
+        },
+        {
+          "id": 24,
+          "title": "Les Misérables",
+          "description": "Victor Hugo's novel follows the lives and interactions of several characters over a period of 20 years in 19th-century France.",
+          "price": 14.99,
+          "instructor": "Victor Hugo",
+          "image_url": "https://example.com/les_miserables.jpg",
+          "website_link": "https://example.com/les-miserables",
+          "isFeatured": true
+        },
+        {
+          "id": 25,
+          "title": "The Count of Monte Cristo",
+          "description": "Alexandre Dumas' tale of revenge and redemption follows the story of Edmond Dantès, a young sailor falsely imprisoned.",
+          "price": 13.49,
+          "instructor": "Alexandre Dumas",
+          "image_url": "https://example.com/count_of_monte_cristo.jpg",
+          "website_link": "https://example.com/count-of-monte-cristo",
+          "isFeatured": false
+        },
+        {
+          "id": 26,
+          "title": "Don Quixote",
+          "description": "Miguel de Cervantes' classic novel follows the adventures of Alonso Quixano, who becomes a knight-errant known as Don Quixote.",
+          "price": 12.99,
+          "instructor": "Miguel de Cervantes",
+          "image_url": "https://example.com/don_quixote.jpg",
+          "website_link": "https://example.com/don-quixote",
+          "isFeatured": false
+        },
+        {
+          "id": 27,
+          "title": "The Divine Comedy",
+          "description": "Dante Alighieri's epic poem follows the narrator's journey through the afterlife, guided by the Roman poet Virgil.",
+          "price": 15.99,
+          "instructor": "Dante Alighieri",
+          "image_url": "https://example.com/divine_comedy.jpg",
+          "website_link": "https://example.com/divine-comedy",
+          "isFeatured": true
+        },
+        {
+          "id": 28,
+          "title": "One Hundred Years of Solitude",
+          "description": "Gabriel García Márquez's magical realist novel follows the Buendía family through generations in the fictional town of Macondo.",
+          "price": 16.49,
+          "instructor": "Gabriel García Márquez",
+          "image_url": "https://example.com/one_hundred_years_of_solitude.jpg",
+          "website_link": "https://example.com/one-hundred-years-of-solitude",
+          "isFeatured": true
+        }
+        
+      ]
+  }
