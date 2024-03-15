@@ -5,6 +5,7 @@ import React, { useState } from "react";
 import { toast } from "react-hot-toast";
 import { useRouter } from "next/navigation";
 
+
 export default function ProfilePage() {
   const router = useRouter();
   const [data, setData] = useState("nothing");
@@ -28,10 +29,12 @@ export default function ProfilePage() {
   return (
     <>
       {/* profile section */}
-      <div className="flex flex-col items-center justify-center py-2 ">
-        <h1>Profile</h1>
-        <hr />
-        <p>Profile page</p>
+      <h1 className="flex flex-row gap-3 items-center justify-center mt-2 text-2xl font-extrabold">Profile</h1>
+      
+      <div className="flex flex-row gap-3 items-center justify-center py-2 ">
+        
+        
+        <p>profile</p>
         <h2 className="p-1 rounded bg-green-500">
           {data === "nothing" ? (
             "Nothing"
@@ -54,6 +57,7 @@ export default function ProfilePage() {
           GetUser Details
         </button>
       </div>
+        <div className="flex flex-row gap-3 items-center justify-center py-2 text-xl">Collect Books <Link className="text-blue-600 underline" href={'/'}>click Me</Link></div>
     </>
   );
 }
