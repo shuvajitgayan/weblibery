@@ -32,7 +32,15 @@ export default function Books() {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 justify-center text-slate-50">
           {Regular_Uses.map((books:Books)=>(
             <div className="flex justify-center" key={books.id}>
-              <BackgroundGradient>test</BackgroundGradient>
+              <BackgroundGradient className="flex flex-col overflow-hidden rounded-[22px] bg-white dark:bg-zinc-900 h-full w-auto text-slate-700">
+                <div className="p-2 sm:p-6 flex flex-col items-center text-center flex-grow">
+                  
+                  <p>{books.title}</p>
+                  <p>{books.instructor}</p>
+                  <p>{books.description}</p>
+                  <Link href={'https://www.amazon.in/Books/b?ie=UTF8&node=976389031&ref_=nav_custrec_signin&'}> Buy Now ${books.price} </Link>
+                </div>
+              </BackgroundGradient>
             </div>
           ))}
         </div>
