@@ -27,14 +27,6 @@ export default function ProfilePage() {
 
   return (
     <>
-      {/* <Herosection /> */}
-      <div className="background h-[250px] sm:h-[350px] lg:h-[500px] w-full bg-no-repeat bg-cover flex flex-col mt-1 rounded">
-        <div className=" mx-auto text-5xl font-extrabold uppercase text-slate-200 mt-6">
-          web<span className="text-orange-600">library</span>
-        </div>
-        <div className="popup "></div>
-      </div>
-
       {/* profile section */}
       <div className="flex flex-col items-center justify-center py-2 ">
         <h1>Profile</h1>
