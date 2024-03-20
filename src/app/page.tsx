@@ -9,6 +9,9 @@ export default function Home() {
   <>
   <Herosection/>
   <Books/>
+  <footer>
+    
+  </footer>
 
   </>
   );
